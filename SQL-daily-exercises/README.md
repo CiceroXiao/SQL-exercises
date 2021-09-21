@@ -9,12 +9,13 @@
 ## 题库来源
 
 2021-9-5：[牛客网](https://www.nowcoder.com/activity/oj?tab=1)。
+
 2021-9-12：可考虑 LeetCode 题库。
 
 
 ## 所用数据库
 
-所用数据库类型：MySQL。
+所用数据库类型：MySQL 8.0。
 
 所用数据库名称：SQL_daily_exercises。
 
