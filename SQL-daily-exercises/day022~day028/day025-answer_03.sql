@@ -38,14 +38,12 @@ FROM
 -- 使用 FLOOR()+1 获取排名中位数的 end
 SELECT
     job,
-    score,
     round(MAX(score_rank) / 2, 0) AS "start",
     floor(MAX(score_rank) / 2) + 1 AS "end"
 FROM
     (
         SELECT
             job,
-            score,
             row_number() over(
                 PARTITION BY job
                 ORDER BY
