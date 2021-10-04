@@ -22,7 +22,7 @@ SHOW DATABASES;
 USE sql_daily_exercises;
 
 SELECT
-    C .job,
+    a.job,
     first_year_mon,
     first_year_cnt,
     second_year_mon,
@@ -41,7 +41,7 @@ FROM
         GROUP BY
             MONTH(DATE),
             job
-    ) AS C
+    ) AS a
     LEFT JOIN (
         SELECT
             job,
@@ -55,8 +55,8 @@ FROM
         GROUP BY
             MONTH(DATE),
             job
-    ) AS d ON C .job = d.job
-    AND C .mon = d.mon
+    ) AS b ON a.job = b.job
+    AND a.mon = b.mon
 ORDER BY
     first_year_mon DESC,
     job DESC;

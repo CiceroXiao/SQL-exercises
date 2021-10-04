@@ -12,6 +12,7 @@
 
 2021-9-12：可考虑 LeetCode 题库。
 
+2021-10-4：[牛客网](https://www.nowcoder.com/activity/oj?tab=1) 93 道习题已全部做完。
 
 ## 所用数据库
 
