@@ -14,6 +14,8 @@
 
 2021-10-4：[牛客网](https://www.nowcoder.com/activity/oj?tab=1) 93 道习题已全部做完。
 
+2021-10-5：[smilecoc](http://smilecoc.vip/2020/04/04/SQL%E9%9D%A2%E8%AF%9544%E9%A2%98/)（个人网站）
+
 ## 所用数据库
 
 所用数据库类型：MySQL 8.0。
