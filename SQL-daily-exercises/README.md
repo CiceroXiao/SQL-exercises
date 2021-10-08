@@ -16,6 +16,8 @@
 
 2021-10-5：[smilecoc](http://smilecoc.vip/2020/04/04/SQL%E9%9D%A2%E8%AF%9544%E9%A2%98/)（个人网站）
 
+2021-10-8：[smilecoc](http://smilecoc.vip/2020/04/04/SQL%E9%9D%A2%E8%AF%9544%E9%A2%98/)题目含义多模糊，舍弃该题库。
+
 ## 所用数据库
 
 所用数据库类型：MySQL 8.0。
