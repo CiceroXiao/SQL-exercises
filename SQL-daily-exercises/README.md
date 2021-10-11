@@ -18,6 +18,7 @@
 
 2021-10-8：[smilecoc](http://smilecoc.vip/2020/04/04/SQL%E9%9D%A2%E8%AF%9544%E9%A2%98/)题目含义多模糊，舍弃该题库。
 
+2021-10-10：[[找工就业]整理了leetcode上面所有的SQL题PDF版本分享给大家求大米呀～](https://www.1point3acres.com/bbs/thread-474445-1-1.html?__cf_chl_jschl_tk__=pmd_vu7.8yzTi9F5E2QyzTX9tEuhLL8znfhFjEouNHlMSso-1633871294-0-gqNtZGzNAlCjcnBszQil)
 ## 所用数据库
 
 所用数据库类型：MySQL 8.0。
