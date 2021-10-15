@@ -13,6 +13,5 @@
  3. 公式：
  4. 实现：
  */
-SHOW DATABASES;
 
 USE sql_daily_exercises;

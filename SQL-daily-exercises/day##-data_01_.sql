@@ -7,6 +7,5 @@
  创建日期：
  修改日期：
  */
-SHOW DATABASES;
 
 USE sql_daily_exercises;
